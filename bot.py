@@ -885,3 +885,4 @@ if __name__ == '__main__':
     print("🤖 Premium Forex Signal Bot is running...")
     print("✨ Features: Subscription system, Usage limits, Payment integration")
     bot.infinity_polling()
+
